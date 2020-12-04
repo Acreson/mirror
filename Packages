@@ -906,6 +906,23 @@ Description: Priority Hub for iOS 11 and 12
 Author: Nepeta
 Name: Axon
 
+Package: me.nepeta.axonreborn
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 576
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: com.peterdev.grupi, me.nepeta.axon, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axonreborn_2.0.0_iphoneos-arm.deb
+Size: 192078
+MD5sum: 0865400a147670f380b7c82e4d009280
+SHA1: 5beaf638905f0ff84c16d0a75019b215137488d8
+SHA256: d4efff8a518f7994974c9c16af61c40925aa125daa217c5040b49ac1d2f88ab5
+Section: Tweaks
+Description: Priority Hub for iOS 13
+Author: Nepeta
+Name: Axon Reborn
+
 Package: me.nepeta.begonecia-10
 Version: 0.2.1
 Architecture: iphoneos-arm
